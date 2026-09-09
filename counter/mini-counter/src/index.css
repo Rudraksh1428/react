@@ -1,0 +1,9 @@
+body {
+  height: 100%;
+  width: 100%;
+}
+button {
+  background-color: aqua;
+  padding: 4px;
+  margin: 2px;
+}
